@@ -80,17 +80,7 @@ section{
 }
 
 header{
-    position: fixed;
-    top:0; left:0;
-    z-index: 1000;
-    height:100%;
-    width:35rem;
-    background:#ffffff;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
 }
 
 header .user img{
